@@ -37,7 +37,7 @@
     "inferno-create-element": "^7.3.3",
     "js-yaml": "^3.13.1",
     "moment": "^2.22.2",
-    "save": "^2.4.0",
+    "save": "^2.9.0",
     "semver": ">=5.0.0"
   }
 }
